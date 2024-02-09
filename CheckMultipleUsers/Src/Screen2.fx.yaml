@@ -1,0 +1,11 @@
+Screen2 As screen:
+
+    Label2 As label:
+        Height: =70
+        Size: =21
+        Text: ="For testing through another Account"
+        Width: =560
+        X: =60
+        Y: =112
+        ZIndex: =1
+

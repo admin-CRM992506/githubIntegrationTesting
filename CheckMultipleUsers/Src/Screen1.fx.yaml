@@ -6,6 +6,6 @@ Screen1 As screen:
         Text: ="Suvargha Added this one"
         Width: =560
         X: =80
-        Y: =383
+        Y: =116
         ZIndex: =1
 
