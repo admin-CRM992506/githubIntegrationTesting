@@ -116,7 +116,7 @@
     "Id": "1e912ce2-db8d-4338-b47b-c412162a136d",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "CheckMultipleUsers",
     "OriginatingVersion": "1.336",
     "ParserErrorCount": 0,
