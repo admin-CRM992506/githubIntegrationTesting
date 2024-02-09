@@ -3,7 +3,7 @@ Screen1 As screen:
     Label1 As label:
         Height: =70
         Size: =21
-        Text: ="Suvargha Added this one"
+        Text: ="Suvargha Added this one - Right now"
         Width: =560
         X: =80
         Y: =116
